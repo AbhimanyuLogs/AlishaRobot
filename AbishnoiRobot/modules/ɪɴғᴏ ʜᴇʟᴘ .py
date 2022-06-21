@@ -28,7 +28,7 @@ __help__ = """
   *Overall Information about you:*
   ❍ /info*:* get information about a user. 
   ❍ /myinfo*:* Shows info about the user who sent this command.
-     𒊹︎︎︎ ᴘᴏᴡᴇʀᴅ ʙʏ @Abishnoi1M
+     𒊹︎︎︎ ᴘᴏᴡᴇʀᴅ ʙʏ @VeNoM_HAi_HuM
 """
  
                                       
