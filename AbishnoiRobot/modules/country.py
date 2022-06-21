@@ -101,7 +101,7 @@ Tɪᴍᴇ ᴢᴏɴᴇ :- {tom}
 Tᴏᴘ Lᴇᴠᴇʟ Dᴏᴍᴀɪɴ :- {lanester}
 Wɪᴋɪᴘᴇᴅɪᴀ:- {wiki}</b>
 
-Iɴғᴏ ʙʏ ➪ [Abishnoi](t.me/Abishnoi1M)</b>
+Iɴғᴏ ʙʏ ➪ [Aʟɪsʜᴀ](t.me/AlishaSupport)</b>
 """
 
     await borg.send_message(
