@@ -21,6 +21,6 @@ __help__ = """
 
  ❍ /wttr moon*:* Get the current status of moon
 
-𒊹︎︎︎ ᴘᴏᴡᴇʀᴅ ʙʏ @Abishnoi1M
+𒊹︎︎︎ ᴘᴏᴡᴇʀᴅ ʙʏ @VeNoM_HAi_HuM
 
 """
