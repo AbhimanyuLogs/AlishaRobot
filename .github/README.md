@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 「 ᴀʙɢ 𒆜 ʀᴏʙᴏᴛ 」 」──
+    ──「 「 Aʟɪsʜᴀ 𒆜 ʀᴏʙᴏᴛ 」 」──
 </h2>
 
 
@@ -15,7 +15,7 @@
 
 <p align="center">
 
-## ㅤㅤㅤ 🖤「 ᴀʙɢ 𒆜 ʀᴏʙᴏᴛ 」🖤
+## ㅤㅤㅤ 🖤「 Aʟɪsʜᴀ 𒆜 ʀᴏʙᴏᴛ 」🖤
      
 ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [💞「 ᴀʙɢ 𒆜 ʀᴏʙᴏᴛ 」💞](https://t.me/Abishnoi_ro_bot)
 ᴛʜɪs ɪs ᴀ ᴅᴇᴍᴏ ʙᴏᴛ <br> ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ нσω ʟᴏɴɢᴇʀ ɪ'ʟʟ вε ʜᴏsᴛɪɴɢ ɪᴛ...
@@ -42,7 +42,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ  ᴀʙɢ 𒆜 ʀᴏʙᴏᴛ 
+ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ  Aʟɪsʜᴀ 𒆜 ʀᴏʙᴏᴛ 
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/KingAbishnoi/AlishaRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
