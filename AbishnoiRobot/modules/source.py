@@ -14,7 +14,7 @@ ANON = "https://telegra.ph/file/77bb85443f0a5f099c875.jpg"
 async def repo(client, message):
     await message.reply_photo(
         photo=ANON,
-        caption=f"""**ʜᴇʏ​ {message.from_user.mention()},\n\nɪ ᴀᴍ [「 ᴀʙɢ 𒆜 ʀᴏʙᴏᴛ 」](t.me/Abishnoi_ro_bot)**
+        caption=f"""**ʜᴇʏ​ {message.from_user.mention()},\n\nɪ ᴀᴍ [「 Aʟɪsʜᴀ 𒆜 ʀᴏʙᴏᴛ 」](t.me/QueenAlishaRobot)**
 
 **» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [ᴅᴇᴠᴇʟᴏᴘᴇʀ](tg://user?id=5301059277)
 **» ᴩʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{y()}`
@@ -30,7 +30,7 @@ async def repo(client, message):
                     InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/VeNoM_HAi_HuM"),
                     InlineKeyboardButton(
                         "ʀᴏʙᴏᴛ",
-                        url="https://github.com/KingAbishnoi/AlishaRobot"),
+                        url="https://github.com/CandyMusic/Hero"),
                     InlineKeyboardButton(
                         "ᴍᴜsɪᴄ",
                         url="https://github.com/KingAbishnoi/AbishnoiXMusic",  
