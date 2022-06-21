@@ -11,5 +11,5 @@ __help__ = """
  
  ❍ /write <text> *:* Wʀɪᴛᴇs ᴛʜᴇ ɢɪᴠᴇɴ ᴛᴇxᴛ
 
-  𒊹︎︎︎ ᴘᴏᴡᴇʀᴅ ʙʏ @Abishnoi1M
+  𒊹︎︎︎ ᴘᴏᴡᴇʀᴅ ʙʏ @VeNoM_HAi_HuM
   """
