@@ -18,15 +18,15 @@ PHOTO = [
 
 @register(pattern=("/alive"))
 async def awake(event):
-    TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ 「 ᴀʙɢ 𒆜 ʀᴏʙᴏᴛ 」​**\n━━━━━━━━━━━━━━━━━━━\n\n"
-    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝝙𝗕𝗜𝗦𝗛𝗡𝗢𝗜](https://t.me/Abishnoi1M)** \n\n"
-    TEXT += f"» **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{telever}` \n\n"
-    TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tlhver}` \n\n"
+    TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ 「 Aʟɪsʜᴀ 𒆜 ʀᴏʙᴏᴛ 」​**\n━━━━━━━━━━━━━━━━━━━\n\n"
+    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/VeNoM_HAi_HuM)** \n\n"
+    TEXT += f"» **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{telever}` \n"
+    TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tlhver}` \n"
     TEXT += f"» **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pyrover}` \n━━━━━━━━━━━━━━━━━\n\n"
     BUTTON = [
         [
             Button.url("ʜᴇʟᴘ​", "https://t.me/Abishnoi_ro_bot?start=help"),
-            Button.url("sᴜᴘᴘᴏʀᴛ​", "https://t.me/Abishnoi_bots"),
+            Button.url("sᴜᴘᴘᴏʀᴛ​", "https://t.me/AlishaSupport"),
         ]
     ]
     ran = random.choice(PHOTO)
