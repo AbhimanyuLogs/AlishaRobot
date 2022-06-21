@@ -15,6 +15,6 @@ Tʜɪs ᴀʟʟᴏᴡs ʏᴏᴜ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ᴛᴏ ᴀ ᴄʜᴀᴛ
 *Admin only:*
  ❍ /allowconnect <yes/no>: ᴀʟʟᴏᴡ ᴀ ᴜsᴇʀ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ᴛᴏ ᴀ ᴄʜᴀᴛ
 
-  𒊹︎︎︎ ᴘᴏᴡᴇʀᴅ ʙʏ @Abishnoi1M
+  𒊹︎︎︎ ᴘᴏᴡᴇʀᴅ ʙʏ @VeNoM_HAi_HuM
 
 """
