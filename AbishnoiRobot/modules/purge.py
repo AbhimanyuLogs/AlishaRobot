@@ -43,7 +43,7 @@ async def purge_messages(event):
     except:
         pass
     time_ = time.perf_counter() - start
-    text = f"Pᴜʀɢᴇᴅ Sᴜᴄᴄᴇssғᴜʟʟʏ ɪɴ {time_:0.2f} sᴇᴄ. (s)\n ғᴀsᴛ「 ᴀʙɢ 𒆜 ʀᴏʙᴏᴛ 」 😎"
+    text = f"Pᴜʀɢᴇᴅ Sᴜᴄᴄᴇssғᴜʟʟʏ ɪɴ {time_:0.2f} sᴇᴄ. (s)\n ғᴀsᴛ 😎"
     await event.respond(text, parse_mode="markdown")
 
 
