@@ -109,7 +109,7 @@ async def job_close():
         try:
             await tbot.send_message(
                 int(warner.chat_id),
-                "12:00 Aᴍ, Gʀᴏᴜᴘ Is Cʟᴏsɪɴɢ Tɪʟʟ 6 Aᴍ. Nɪɢʜᴛ Mᴏᴅᴇ Sᴛᴀʀᴛᴇᴅ ! \n   **𝖯𝖮𝖶𝖤𝖱𝖤𝖣  𝖡𝖸 ➪ 𝖠𝖡𝖦 𝖱𝖮𝖡𝖮𝖳 **",
+                "12:00 Aᴍ, Gʀᴏᴜᴘ Is Cʟᴏsɪɴɢ Tɪʟʟ 6 Aᴍ. Nɪɢʜᴛ Mᴏᴅᴇ Sᴛᴀʀᴛᴇᴅ ! \n   **𝖯𝖮𝖶𝖤𝖱𝖤𝖣  𝖡𝖸 ➪ ALISHA 𝖱𝖮𝖡𝖮𝖳 **",
             )
             await tbot(
                 functions.messages.EditChatDefaultBannedRightsRequest(
@@ -134,7 +134,7 @@ async def job_open():
         try:
             await tbot.send_message(
                 int(warner.chat_id),
-                "ɴᴏᴡ ᴀʟʟᴏᴡᴇᴅ ᴄʜᴀᴛ \ɴ** Pᴏᴡᴇʀᴇᴅ Bʏ 「 ᴀʙɢ 𒆜 ʀᴏʙᴏᴛ 」**",
+                " ɴᴏᴡ ᴀʟʟᴏᴡᴇᴅ ᴄʜᴀᴛ [Nɪɢʜᴛ ᴍᴏᴅᴇ ᴏɴ] \n ** Pᴏᴡᴇʀᴇᴅ Bʏ 「 Aʟɪsʜᴀ 𒆜 ʀᴏʙᴏᴛ 」**",
             )
             await tbot(
                 functions.messages.EditChatDefaultBannedRightsRequest(
@@ -147,7 +147,7 @@ async def job_open():
 
 # Run everyday at 06
 scheduler = AsyncIOScheduler(timezone="Asia/Kolkata")
-scheduler.add_job(job_open, trigger="cron", hour=6, minute=10)
+scheduler.add_job(job_open, trigger="cron", hour=5, minute=50)
 scheduler.start()
 
 
