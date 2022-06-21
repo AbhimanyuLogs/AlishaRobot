@@ -1,5 +1,5 @@
 {
-      "name": "「 ᴀʙɢ 𒆜 ʀᴏʙᴏᴛ 」",
+      "name": "「 AlishaRobot 」",
       "description": "Telegram Group Management Bot.",
       "logo": "https://telegra.ph/file/05982372c0c7b30bee416.jpg",
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "Abishnoi"
       ],   
-   "repository": "https://github.com/KingAbishnoi/AbishnoiRobot",
+   "repository": "https://github.com/KingAbishnoi/AlishaRobot",
    "addons": [
       {
          "options": {
@@ -42,7 +42,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1452219013"
+         "value": "5301059277"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -54,12 +54,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Abishnoi1M"
+         "value": "VeNoM_HAi_HuM"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Abishnoi Support than consider you made an enemy.",
          "required": true,
-         "value": "Abishnoi_bots"
+         "value": "AlishaSupport"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -69,12 +69,12 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001376267876"
+         "value": "-1001719865866"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001376267876"
+         "value": "-1001719865866"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
@@ -94,7 +94,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Abishnoi Support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "1452219013"
+         "value": "5301059277"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -108,22 +108,22 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1452219013"
+         "value": "5301059277"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "1452219013"
+         "value": "5301059277"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "1452219013"
+         "value": "5301059277"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1452219013"
+         "value": "5301059277"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -190,7 +190,7 @@
         },
       "ARQ_API_KEY": {
          "description": "ARQ_API_KEY",
-         "required": false,
+         "required": true,
          "value": ""
             },
       "REM_BG_API_KEY": {
