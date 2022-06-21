@@ -12,7 +12,7 @@ from AbishnoiRobot import telethn as tbot
 
 PHOTO = [
     "https://telegra.ph/file/c8b388e5c3fa17f7dbbfe.jpg",
-    "https://telegra.ph/file/32c5d35031af56a2bc37e.mp4",
+    "https://telegra.ph//file/4e4a87ac897df01f843c0.jpg",
 ]
 
 
