@@ -16,21 +16,21 @@ async def repo(client, message):
         photo=ANON,
         caption=f"""**ʜᴇʏ​ {message.from_user.mention()},\n\nɪ ᴀᴍ [「 ᴀʙɢ 𒆜 ʀᴏʙᴏᴛ 」](t.me/Abishnoi_ro_bot)**
 
-**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [𝐀𝐁𝐈𝐒𝐇𝐍𝐎𝐈](tg://user?id=1452219013)
+**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [ᴅᴇᴠᴇʟᴏᴘᴇʀ](tg://user?id=5301059277)
 **» ᴩʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{y()}`
 **» ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{o}` 
 **» ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{s}` 
 **» ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{z}`
 
-**「 ᴀʙɢ 𒆜 ʀᴏʙᴏᴛ ᴏʀ ᴍᴜsɪ 」 sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
+**「 Aʟɪsʜᴀ 𒆜 ʀᴏʙᴏᴛ ᴏʀ ᴍᴜsɪᴄ 」 sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/Abishnoi1M"),
+                    InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/VeNoM_HAi_HuM"),
                     InlineKeyboardButton(
                         "ʀᴏʙᴏᴛ",
-                        url="https://github.com/KingAbishnoi/AbishnoiRobot"),
+                        url="https://github.com/KingAbishnoi/AlishaRobot"),
                     InlineKeyboardButton(
                         "ᴍᴜsɪᴄ",
                         url="https://github.com/KingAbishnoi/AbishnoiXMusic",  
