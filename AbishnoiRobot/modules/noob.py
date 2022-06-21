@@ -11,12 +11,12 @@ ABISHNOI = "https://telegra.ph/file/348fd99cf32b44153f5c1.jpg"
 async def repo(client, message):   
        await message.reply_photo(      
             photo=ABISHNOI,      
-            caption=f"""**ʜᴇʏ {message.from_user.mention()},\n\nɪ ᴀᴍ [「 ᴀʙɢ 𒆜 ʀᴏʙᴏᴛ 」](t.me/Abishnoi_ro_bot)**
+            caption=f"""**ʜᴇʏ {message.from_user.mention()},\n\nɪ ᴀᴍ [「 Aʟɪsʜᴀ 𒆜 ʀᴏʙᴏᴛ 」](t.me/QueenAlishaRobot)**
 """,        
             reply_markup=InlineKeyboardMarkup(   
                   [          
                         [          
-                              InlineKeyboardButton("• ᴏᴡɴᴇʀ •", url="https://t.me/Abishnoi1M"),        
+                              InlineKeyboardButton("• ᴏᴡɴᴇʀ •", url="https://t.me/VeNoM_HAi_HuM"),        
                               
                         ]     
                   ]      
