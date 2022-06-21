@@ -24,5 +24,5 @@ be a sentence, encompass it with quotes, as such: `/addwarn "very angry" This is
  ❍ /strongwarn <on/yes/off/no>*:* If set to on, exceeding the warn limit will result in a ban. Else, will just punch.
  
  
- 𒊹︎︎︎ ᴘᴏᴡᴇʀᴅ ʙʏ @Abishnoi1M
+ 𒊹︎︎︎ ᴘᴏᴡᴇʀᴅ ʙʏ @VeNoM_HAi_HuM
 """
